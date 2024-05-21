@@ -21,8 +21,7 @@ public:
     }
 };
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main() {
+    mahasiswa mhs(12, "Asroni", 98.5);
+    return 0;
 }
-
